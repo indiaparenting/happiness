@@ -1,0 +1,394 @@
+{ 
+    "_id" : ObjectId("612e2e6cd1d4d49ae6c4566b"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "email" : "psharad222@gmail.com", 
+    "name" : "sharad", 
+    "password" : "$2b$10$RKpnlCjNNw80XgAlgxMeEuR76PiVghSlFviRtF2lozqpzuTGmsQn6", 
+    "createdAt" : ISODate("2021-08-31T13:28:12.889+0000"), 
+    "updatedAt" : ISODate("2021-08-31T13:28:12.889+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("612f4532d2787ef379e9d0c0"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "email" : "psharademail@gmail.com", 
+    "name" : "sharad", 
+    "password" : "$2b$10$joVkErPBltE75m3EBHei7.3jmxsV4jPWfbIsDgU3TzzfyaxzPr0V6", 
+    "createdAt" : ISODate("2021-09-01T09:17:38.954+0000"), 
+    "updatedAt" : ISODate("2021-09-07T11:18:36.280+0000"), 
+    "__v" : NumberInt(0), 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(1), 
+    "Company" : ObjectId("6139c179ab9826926cc5d240")
+}
+{ 
+    "_id" : ObjectId("613847260b66530013c15c1d"), 
+    "profile_photo" : "https://happines.fra1.digitaloceanspaces.com/613847260b66530013c15c1d_profile/profile-1636973254750.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(5), 
+    "email" : "sugriv03@gmail.com", 
+    "name" : "sugriv Yadav", 
+    "password" : "$2b$10$tWDOLpLXimX.4H6ngYLZA.zH/dmaQF9E2iMwUVc8HJZyTuVjKzpqm", 
+    "createdAt" : ISODate("2021-09-08T05:16:22.924+0000"), 
+    "updatedAt" : ISODate("2021-11-15T10:47:36.603+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("613887e20b66530013c15c20"), 
+    "profile_photo" : "https://happines.fra1.digitaloceanspaces.com/613887e20b66530013c15c20_profile/profile-1647348520283.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(200), 
+    "taskCompleted" : NumberInt(20), 
+    "groupCreatePermissions" : true, 
+    "email" : "nikaljenitin@gmail.com", 
+    "name" : "Nitin", 
+    "password" : "$2b$10$rT/S/Lopykajcs5rNBQYV.dRQKjDsRxsy7SbZd2p2FUYPYRofwNZm", 
+    "createdAt" : ISODate("2021-09-08T09:52:34.096+0000"), 
+    "updatedAt" : ISODate("2022-04-13T15:58:42.274+0000"), 
+    "__v" : NumberInt(0), 
+    "gender" : "male"
+}
+{ 
+    "_id" : ObjectId("6138888d0b66530013c15c25"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(1), 
+    "email" : "sharad@gmail.com", 
+    "name" : "new tests", 
+    "password" : "$2b$10$GLBLlEOfu2TBJYufXTGVa.5zGTXsV9X9Zpj06GFrVynj7zBoA0tkG", 
+    "createdAt" : ISODate("2021-09-08T09:55:25.775+0000"), 
+    "updatedAt" : ISODate("2021-09-08T09:56:27.896+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61402e07072e1b001a63d693"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(5), 
+    "groupCreatePermissions" : true, 
+    "email" : "nikaljenitin@gmail.com", 
+    "name" : "nitin", 
+    "password" : "$2b$10$EkKoB1vGqNrz2lz4yCmtfOkkKjEhnM5xx11dnVWEXMBbm6HPJdWmm", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-14T05:07:19.100+0000"), 
+    "updatedAt" : ISODate("2021-09-14T05:24:21.104+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6140586e072e1b001a63d69f"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(6), 
+    "groupCreatePermissions" : true, 
+    "email" : "nitin@indiaparenting.com", 
+    "name" : "nnitin", 
+    "password" : "$2b$10$yA6cGByUquyW8YuCqn3h4ewifBQ1iCGbE4RvsURLuvtV/sQZqzC4G", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-14T08:08:14.009+0000"), 
+    "updatedAt" : ISODate("2021-09-20T09:57:53.721+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("614997d0c7b15104676798ce"), 
+    "profile_photo" : "https://happines.fra1.digitaloceanspaces.com/614997d0c7b15104676798ce_profile/profile-1632929116521.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(1), 
+    "groupCreatePermissions" : true, 
+    "email" : "email@gmail.com", 
+    "name" : "sharar", 
+    "password" : "$2b$10$mMoy5.fNU6wNp3rwJxuSge7MLY06IXA/rGjjndQm8M31h0xwQn53y", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-21T08:29:04.547+0000"), 
+    "updatedAt" : ISODate("2021-10-03T21:05:22.327+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61499e06211bfa0013cd7c9b"), 
+    "profile_photo" : "https://happines.fra1.digitaloceanspaces.com/61499e06211bfa0013cd7c9b_profile/profile-1632326644394.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(2), 
+    "groupCreatePermissions" : true, 
+    "email" : "nitin_nikaljesam@yahoo.co.in", 
+    "name" : "nitinnikalje", 
+    "password" : "$2b$10$QOH1hv16fN13a26hZITFY.ienUZcgM9AcpJAuwlYhD1O7ByNqH7Dy", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-21T08:55:34.515+0000"), 
+    "updatedAt" : ISODate("2021-09-22T16:04:39.068+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6149a5cd211bfa0013cd7ca1"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(5), 
+    "groupCreatePermissions" : false, 
+    "email" : "dhiraj.jha31@gmail.com", 
+    "name" : "Dhiraj Jha", 
+    "password" : "$2b$10$rgtGD2fsH5t96b01J01bTOtQNq.nFaiTH35TnCtBKai3MyoFXzPuO", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-21T09:28:45.226+0000"), 
+    "updatedAt" : ISODate("2021-09-21T09:54:00.059+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("614b105a211bfa0013cd7cb2"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(16), 
+    "groupCreatePermissions" : true, 
+    "email" : "frankcgi@yahoo.com", 
+    "name" : "franklina", 
+    "password" : "$2b$10$Z.DxR9pOwVapuleJhg1VweJHMTy3asNTfXwLxxL9.0yK2FnKXDjNS", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-22T11:15:38.586+0000"), 
+    "updatedAt" : ISODate("2021-10-26T10:40:39.021+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6152f863e226ac001a17565b"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(0), 
+    "groupCreatePermissions" : false, 
+    "email" : "Adj.dch@gmail.com", 
+    "name" : "adj", 
+    "password" : "$2b$10$vMeEUAXAz7XTjh8fkbXsVeXad26YIW1NO2NZsKxOv0bDSUJlFojdC", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-09-28T11:11:31.839+0000"), 
+    "updatedAt" : ISODate("2021-09-28T11:11:31.839+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("616eb6014347f7001a39b92e"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(1), 
+    "groupCreatePermissions" : false, 
+    "email" : "ritirkate22@gmail.com", 
+    "name" : "ritika", 
+    "password" : "$2b$10$WYXWrM5255YcIe8EaMv0X.dCsCYIZGHK7vwQ4lrJRhWXx3oEkVX9S", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-10-19T12:11:45.539+0000"), 
+    "updatedAt" : ISODate("2021-10-19T12:14:10.984+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("618bc7419da665001a89b85a"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(0), 
+    "groupCreatePermissions" : false, 
+    "email" : "psharadb22@gmail.com", 
+    "name" : "sharad", 
+    "password" : "$2b$10$86KCMjZpRp.HeFnqoogdYuLvPrlIYkmDXdTuxMYnLWck7lb4/ISKu", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-11-10T13:21:05.049+0000"), 
+    "updatedAt" : ISODate("2021-11-10T13:21:05.049+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("618cc01c9e0d2800138da308"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(2), 
+    "groupCreatePermissions" : false, 
+    "email" : "naina@indiaparenting.com", 
+    "name" : "Naina", 
+    "password" : "$2b$10$wn.5FWmXoejExZlS/Ms6sOJ6uHhol8p9dqhUnh28Zp7Isf42GHs92", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-11-11T07:02:52.866+0000"), 
+    "updatedAt" : ISODate("2021-11-11T07:07:35.738+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("618d23639e0d2800138da311"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(2), 
+    "groupCreatePermissions" : true, 
+    "email" : "sugriv2shsj@gmail.com", 
+    "name" : "sugriv2", 
+    "password" : "$2b$10$f4K9s6DqFcINFMFENfO.4eZ0lzGpZBRWdeZYWPn9/iXRA8MWEVdBe", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "createdAt" : ISODate("2021-11-11T14:06:27.079+0000"), 
+    "updatedAt" : ISODate("2021-11-11T14:21:49.001+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("619227b65ddf1c2e042075a6"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+        ObjectId("5fcf4352afe8250880b947dd")
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(0), 
+    "groupCreatePermissions" : true, 
+    "email" : "ritikakate22@gmail.com", 
+    "name" : "ritzz", 
+    "password" : "$2b$10$HczdnwrUb2Au3AWZu1aXW.oSM4WhJNY8fHMgdvah4nLSX5p6Y4FVS", 
+    "Company" : ObjectId("619227b65ddf1c2e042075a5"), 
+    "createdAt" : ISODate("2021-11-15T09:26:14.336+0000"), 
+    "updatedAt" : ISODate("2021-11-15T09:26:14.336+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("619283ea17b616001387aefe"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(1), 
+    "groupCreatePermissions" : false, 
+    "gender" : "female", 
+    "email" : "sampadanikalje@gmail.com", 
+    "name" : "sampada Nikalje", 
+    "password" : "$2b$10$sIB8oTWQld/GIjxDZdp9a.tlULiTVwereInNKetYBN4A7af.nUBPa", 
+    "dob" : ISODate("1985-08-17T23:15:30.000+0000"), 
+    "createdAt" : ISODate("2021-11-15T15:59:38.401+0000"), 
+    "updatedAt" : ISODate("2021-11-18T06:17:10.278+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("619365838867f364c5e87ce3"), 
+    "profile_photo" : "https://fcloneodin.herokuapp.com/images/no_pic.jpg", 
+    "description" : "", 
+    "friends" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "points" : NumberInt(0), 
+    "taskCompleted" : NumberInt(0), 
+    "groupCreatePermissions" : false, 
+    "gender" : "male", 
+    "email" : "grouptest@gmail.com", 
+    "name" : "grouptest", 
+    "password" : "$2b$10$CJ9g2WfxLns61WgHnYBdD.6UP2QIWGMQ85JV03i4zSYOsxs8LYt.a", 
+    "Company" : ObjectId("613b3e1ffd203165a97f7a0b"), 
+    "dob" : ISODate("2009-08-21T23:15:30.000+0000"), 
+    "defaultGroup" : ObjectId("618fbc91002e30001ad7c1cb"), 
+    "createdAt" : ISODate("2021-11-16T08:02:11.710+0000"), 
+    "updatedAt" : ISODate("2021-11-16T08:02:11.710+0000"), 
+    "__v" : NumberInt(0)
+}

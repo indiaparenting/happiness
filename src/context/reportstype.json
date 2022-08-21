@@ -1,0 +1,77 @@
+{ 
+    "_id" : ObjectId("61797d404caba1001e6fe6f9"), 
+    "Title" : "It's spam", 
+    "createdAt" : ISODate("2021-10-27T16:24:32.636+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:24:32.636+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797d5f4caba1001e6fe6fa"), 
+    "Title" : "I just don't like it", 
+    "createdAt" : ISODate("2021-10-27T16:25:03.004+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:25:03.004+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797d6f4caba1001e6fe6fb"), 
+    "Title" : "Nudity or sexual content", 
+    "createdAt" : ISODate("2021-10-27T16:25:19.333+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:25:19.333+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797d884caba1001e6fe6fc"), 
+    "Title" : "Hate speech or symbols", 
+    "createdAt" : ISODate("2021-10-27T16:25:44.228+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:25:44.228+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797d974caba1001e6fe6fd"), 
+    "Title" : "Violence or dangerous organizations", 
+    "createdAt" : ISODate("2021-10-27T16:25:59.480+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:25:59.480+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797da74caba1001e6fe6fe"), 
+    "Title" : "False information", 
+    "createdAt" : ISODate("2021-10-27T16:26:15.242+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:26:15.242+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797db44caba1001e6fe6ff"), 
+    "Title" : "Bullying or harassment", 
+    "createdAt" : ISODate("2021-10-27T16:26:28.767+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:26:28.767+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797dc14caba1001e6fe700"), 
+    "Title" : "Intellectual property violation", 
+    "createdAt" : ISODate("2021-10-27T16:26:41.899+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:26:41.899+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797dd14caba1001e6fe701"), 
+    "Title" : "Suicide or self-injury", 
+    "createdAt" : ISODate("2021-10-27T16:26:57.141+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:26:57.141+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797ddf4caba1001e6fe702"), 
+    "Title" : "Sale of illegal or regulated goods", 
+    "createdAt" : ISODate("2021-10-27T16:27:11.447+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:27:11.447+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61797dee4caba1001e6fe703"), 
+    "Title" : "Eating disorders", 
+    "createdAt" : ISODate("2021-10-27T16:27:26.526+0000"), 
+    "updatedAt" : ISODate("2021-10-27T16:27:26.526+0000"), 
+    "__v" : NumberInt(0)
+}

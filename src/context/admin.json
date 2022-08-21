@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("617a88df7f5b462fcdcf4ee0"), 
+    "mobile_verified" : false, 
+    "status" : false, 
+    "admin_name" : "riti kate", 
+    "admin_mobile" : 8796873044.0, 
+    "admin_email" : "ritir@gmail.com", 
+    "admin_password" : "$2a$08$fgmYuoVk63VnLSauaPmbuexoZMrvW79yYV9hG8CNok18NRjAzQNk2", 
+    "role" : "Mini Admin", 
+    "createdAt" : ISODate("2021-10-28T11:26:23.220+0000"), 
+    "updatedAt" : ISODate("2021-10-28T11:26:23.220+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("617aa07f943ee6317b5bd66b"), 
+    "mobile_verified" : false, 
+    "status" : false, 
+    "admin_name" : "riti kate", 
+    "admin_mobile" : 8796873044.0, 
+    "admin_email" : "ritirkate22@gmail.com", 
+    "admin_password" : "$2a$08$gFAEom3Z2g6zkFqAadTDae6iy0/CiijBQNVdN9MDtFx9seU69FTeq", 
+    "role" : "Super Admin", 
+    "createdAt" : ISODate("2021-10-28T13:07:11.635+0000"), 
+    "updatedAt" : ISODate("2021-11-12T06:39:53.485+0000"), 
+    "__v" : NumberInt(0), 
+    "fw_otp" : NumberInt(4538)
+}

@@ -1,0 +1,120 @@
+{ 
+    "_id" : ObjectId("6135f6128ab84f909178250f"), 
+    "valuesID" : "1", 
+    "title" : "Charity ", 
+    "displayFlag" : "1", 
+    "activemonth" : "4", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/month-of-charity.png", 
+    "desciption" : "Service/Charity"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782510"), 
+    "valuesID" : "2", 
+    "title" : "Courage", 
+    "displayFlag" : "1", 
+    "activemonth" : "5", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/month-of-courage.png", 
+    "desciption" : "Courage/Bravery/Fearlessness/Confidence/Self-Esteem"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782511"), 
+    "valuesID" : "3", 
+    "title" : "Kindness", 
+    "displayFlag" : "1", 
+    "activemonth" : "6", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/kindness-month.png", 
+    "desciption" : "Kindness/Compassion/Caring"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782512"), 
+    "valuesID" : "4", 
+    "title" : "Forgiveness", 
+    "displayFlag" : "1", 
+    "activemonth" : "7", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/forgiveness-month.png", 
+    "desciption" : "Forgiveness/Self-Forgiveness"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782513"), 
+    "valuesID" : "5", 
+    "title" : "love", 
+    "displayFlag" : "1", 
+    "activemonth" : "8", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/month-of-love.png", 
+    "desciption" : "Love/Self-Love"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782514"), 
+    "valuesID" : "6", 
+    "title" : "Honesty", 
+    "displayFlag" : "1", 
+    "activemonth" : "9", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/month-of-honesty.png", 
+    "desciption" : "Honesty/Truthfulness/Faithfulness"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782515"), 
+    "valuesID" : "7", 
+    "title" : "Respectfulness", 
+    "displayFlag" : "1", 
+    "activemonth" : "10", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/respectfulness-month.png", 
+    "desciption" : "Being Respectful"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782516"), 
+    "valuesID" : "8", 
+    "title" : "Friendship", 
+    "displayFlag" : "1", 
+    "activemonth" : "11", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/friendship-month.png", 
+    "desciption" : "Friendship"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782517"), 
+    "valuesID" : "9", 
+    "title" : "Helpfulness", 
+    "displayFlag" : "1", 
+    "activemonth" : "12", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/helpfulness-month.png", 
+    "desciption" : "Helpfulness"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782518"), 
+    "valuesID" : "10", 
+    "title" : "Peacefulness", 
+    "displayFlag" : "1", 
+    "activemonth" : "1", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/peacefulness-month.png", 
+    "desciption" : "Peace/Patience/Acceptance/Tolerance/Equanimity/Non-Violence"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f9091782519"), 
+    "valuesID" : "11", 
+    "title" : "Generosity", 
+    "displayFlag" : "1", 
+    "activemonth" : "2", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/generosity-month.png", 
+    "desciption" : "Generosity/Sharing/Self-Giving"
+}
+{ 
+    "_id" : ObjectId("6135f6128ab84f909178251a"), 
+    "valuesID" : "12", 
+    "title" : "Gratitude", 
+    "displayFlag" : "1", 
+    "activemonth" : "3", 
+    "thumbimg" : "/uploads/heart3.jpg", 
+    "titleImage" : "/uploads/values/gratitude-month.png", 
+    "desciption" : "Gratitude/Appreciation"
+}
