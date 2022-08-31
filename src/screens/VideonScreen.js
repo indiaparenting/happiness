@@ -14,7 +14,7 @@ const { width, height } = Dimensions.get('screen');
 import faker from 'faker';
 import { TouchableOpacity } from 'react-native-gesture-handler';
 import { mainAxios, } from "../api/tracker";
-faker.seed(10);
+/* faker.seed(10);
 const DATA = [...Array(30).keys()].map((_, i) => {
     return {
         key: faker.random.uuid(),
@@ -23,7 +23,7 @@ const DATA = [...Array(30).keys()].map((_, i) => {
         jobTitle: faker.name.jobTitle(),
         email: faker.internet.email(),
     };
-});
+}); */
 /* const tagsData = [
     {
         id: 0,
@@ -117,6 +117,7 @@ const ValuesScreen = ({ navigation }) => {
         setModalFlag(!modalFlag);
     }
     const ModalClose = () => {
+        console.log("u called!");
         setModalFlag(!modalFlag);
     }
 
@@ -167,7 +168,7 @@ const ValuesScreen = ({ navigation }) => {
                 <FlatList
                     style={{ flexGrow: 0,paddingBottom:5 }}
                     data={tagsData}
-                    keyExtractor={(item) => item.valuesID}
+                    keyExtractor={(item) => item.valuesID.toString}
                     contentContainerStyle={{ paddingLeft: _spacing }}
                     showsHorizontalScrollIndicator={false}
                     horizontal

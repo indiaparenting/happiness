@@ -1,4 +1,4 @@
-rootProject.name = 'Happiness'
+rootProject.name = 'The Happiness'
 
 apply from: '../node_modules/react-native-unimodules/gradle.groovy'
 includeUnimodulesProjects()

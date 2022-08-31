@@ -132,11 +132,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "in.thehappinesschallenge.happinessapp"
+        applicationId 'in.thehappinesschallenge.happinessapp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 76
-        versionName "1.0"
+        versionName "1.0.0"
     }
     splits {
         abi {
